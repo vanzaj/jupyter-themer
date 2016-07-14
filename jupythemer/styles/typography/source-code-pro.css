@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+/* Change code font */
+.CodeMirror pre {
+    font-family: 'Source Code Pro', monospace;
+}
+
+div.input_area {
+    border-color: rgba(0,0,0,0.10);
+    background: rbga(0,0,0,0.5);
+}
